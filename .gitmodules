@@ -1,0 +1,3 @@
+[submodule "signals-breakout-contracts"]
+	path = signals-breakout-contracts
+	url = https://github.com/signals-protocol/signals-breakout-contracts
