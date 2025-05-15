@@ -9,9 +9,7 @@ This guide walks you through using the Signals BTC price prediction market on De
 
 ## 1. Open the Demo Page
 
-Go to the demo page:
-
-[https://breakout.signals.wtf/](https://breakout.signals.wtf/)
+Go to the demo page: [https://breakout.signals.wtf/](https://breakout.signals.wtf/) and connect your wallet   
 ![Screenshot 2025-05-15 at 12 34 37 PM](https://github.com/user-attachments/assets/93bc57d5-0eb6-4e0d-ade2-3030a0f8acd3)
 
 
