@@ -9,19 +9,17 @@ This guide walks you through using the Signals BTC price prediction market on De
 
 ## 1. Open the Demo Page
 
-Go to the demo page: [https://breakout.signals.wtf/](https://breakout.signals.wtf/) and connect your wallet   
+Go to the demo page: [https://breakout.signals.wtf/](https://breakout.signals.wtf/) and connect your wallet.   
 ![Screenshot 2025-05-15 at 12 34 37 PM](https://github.com/user-attachments/assets/93bc57d5-0eb6-4e0d-ade2-3030a0f8acd3)
 
 
 ## 2. Get Faucet Funds
 
-### Click **Faucet** in the top‑right corner.
+Click **Faucet** in the top‑right corner.  
+
 ![Screenshot 2025-05-15 at 12 36 26 PM](https://github.com/user-attachments/assets/ece17923-cb3c-44f7-96d4-a2953bee43bd)  
-  
-### In the modal, click **Get** next to:
-  
-- **SOL (Devnet)**  
-- **USDC (Mock) (Devnet)**
+
+Click the Get button to receive SOL and USDC from the faucet. SOL will redirect you to the official faucet page (https://faucet.solana.com/).
 
 ![Screenshot 2025-05-15 at 12 36 41 PM](https://github.com/user-attachments/assets/31495c58-9634-4f89-aa05-8eb28fcb4736)
 
