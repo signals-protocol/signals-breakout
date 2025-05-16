@@ -131,7 +131,7 @@ Cryptocurrency prediction markets have already reached a significant scale, occu
 
 Signals was a finalist at ETHGlobal Taipei, developed by the former Toaster Finance team after pivoting.
 
-For questions or inquiries, DM [`@signalswtf`](https://x.com/signals_protocol) or open an issue.
+For questions or inquiries, DM [`@signalswtf`](https://x.com/signalswtf) or open an issue.
 
 - Demo: [breakout.signals.wtf](https://breakout.signals.wtf)
 - X: [@signalswtf](https://x.com/signalswtf)
