@@ -1,5 +1,5 @@
-[submodule "signals-breakout-contracts"]
-	path = signals-breakout-contracts
+[submodule "signals-breakout-programs"]
+	path = signals-breakout-programs
 	url = https://github.com/signals-protocol/signals-breakout-contracts
 	branch = main
 [submodule "signals-breakout-frontend"]
