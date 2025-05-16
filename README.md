@@ -38,7 +38,7 @@ Signals also follows the "price = probability" principle, but extends it to n co
 
 ### Heat‑map UI
 
-![heatmap demo](docs/heatmap.gif)
+![Screenshot](https://github.com/user-attachments/assets/93bc57d5-0eb6-4e0d-ade2-3030a0f8acd3)
 
 ## Mathematical Model (Cost Function)
 
@@ -131,8 +131,7 @@ Cryptocurrency prediction markets have already reached a significant scale, occu
 
 Signals was a finalist at ETHGlobal Taipei, developed by the former Toaster Finance team after pivoting.
 
-For questions or inquiries, DM [`@signals_protocol`](https://twitter.com/signals_protocol) or open an issue.
+For questions or inquiries, DM [`@signalswtf`](https://x.com/signals_protocol) or open an issue.
 
-- Website: [signals.wtf](https://signals.wtf)
 - Demo: [breakout.signals.wtf](https://breakout.signals.wtf)
-- Twitter: [@signals_wtf](https://twitter.com/signals_wtf)
+- X: [@signalswtf](https://x.com/signalswtf)
