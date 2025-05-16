@@ -1,6 +1,8 @@
 [submodule "signals-breakout-contracts"]
 	path = signals-breakout-contracts
 	url = https://github.com/signals-protocol/signals-breakout-contracts
+	branch = main
 [submodule "signals-breakout-frontend"]
 	path = signals-breakout-frontend
 	url = https://github.com/signals-protocol/signals-breakout-frontend
+	branch = main
