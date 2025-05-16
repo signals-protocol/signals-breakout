@@ -1,4 +1,4 @@
-# Signals: Next-generation prediction markets for crypto market sentiment.
+# Signals: Bitcoin Price Prediction Market
 
 > Unified-liquidity **n‑outcome** prediction market for daily BTC price runs on Solana
 
