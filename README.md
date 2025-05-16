@@ -1,7 +1,6 @@
 # Signals: Next-generation prediction markets for crypto market sentiment.
 
-> Unified-liquidity **n‑outcome** prediction market for daily BTC price moves on Solana
-> _"See the next tick before it moves."_
+> Unified-liquidity **n‑outcome** prediction market for daily BTC price runs on Solana
 
 <div align="center">
 
@@ -11,6 +10,7 @@
 <a href="https://x.com/signalswtf"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=505050" alt="X" /></a>
 <a href="https://discord.gg/pEqJUbXDA6"><img src="https://img.shields.io/badge/Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=505050" alt="Discord" /></a>
 
+<img src="./cartoon.png" alt="Signals Overview" width="100%" />
 </div>
 
 ## TL;DR
@@ -48,7 +48,7 @@ Signals also follows the "price = probability" principle, but extends it to n co
 
 ### Heat‑map UI
 
-![Screenshot](https://github.com/user-attachments/assets/93bc57d5-0eb6-4e0d-ade2-3030a0f8acd3)
+Signals provides an intuitive heatmap visualization that shows probability distribution across price ranges. Users can easily see where market sentiment is concentrated and make informed betting decisions. The darker areas represent higher probability (more bets placed) in that specific price range.
 
 ## Mathematical Model (Cost Function)
 
