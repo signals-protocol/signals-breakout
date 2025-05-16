@@ -3,6 +3,16 @@
 > Unified-liquidity **n‑outcome** prediction market for daily BTC price moves on Solana
 > _"See the next tick before it moves."_
 
+<div align="center">
+
+<a href="https://github.com/signals-protocol/signals-breakout-programs"><img src="https://img.shields.io/badge/Solana_Program-9945FF?style=for-the-badge&logo=solana&logoColor=white&labelColor=505050" alt="Solana Program" /></a>
+<a href="https://github.com/signals-protocol/signals-breakout-frontend"><img src="https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=505050" alt="Frontend" /></a>
+<a href="https://breakout.signals.wtf"><img src="https://img.shields.io/badge/Live_Demo-FF4785?style=for-the-badge&logo=storybook&logoColor=white&labelColor=505050" alt="Demo" /></a>
+<a href="https://x.com/signalswtf"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=505050" alt="X" /></a>
+<a href="https://discord.gg/pEqJUbXDA6"><img src="https://img.shields.io/badge/Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=505050" alt="Discord" /></a>
+
+</div>
+
 ## TL;DR
 
 Signals transforms BTC price predictions into a continuous probability heat-map rather than binary YES/NO bets. Traders can **buy the exact range they believe in** while a cost-function AMM keeps prices fair.
@@ -135,3 +145,4 @@ For questions or inquiries, DM [`@signalswtf`](https://x.com/signalswtf) or open
 
 - Demo: [breakout.signals.wtf](https://breakout.signals.wtf)
 - X: [@signalswtf](https://x.com/signalswtf)
+- Discord: [Join our community](https://discord.gg/pEqJUbXDA6)
