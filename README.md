@@ -1,7 +1,4 @@
-# Signals - Bitcoin Price Prediction Market
-
-[![Build Status](https://img.shields.io/github/actions/workflow/status/signals-protocol/signals-breakout-contracts/ci.yml?branch=main)](../../actions)
-[![License](https://img.shields.io/github/license/signals-protocol/signals)](LICENSE)
+# Signals: Next-generation prediction markets for crypto market sentiment.
 
 > Unified-liquidity **n‑outcome** prediction market for daily BTC price moves on Solana
 > _"See the next tick before it moves."_
@@ -56,7 +53,7 @@ $$
 The solution to this integral is:
 
 $$
-\text{Cost} = x + (q-T) \cdot \ln\left(\frac{T+x}{T}\right) = x + (q-T) \cdot \ln\left(1 + \frac{x}{T}\right)
+\text{Cost} = x + (q-T) \cdot \ln\left(\frac{T+x}{T}\right)
 $$
 
 Where:
